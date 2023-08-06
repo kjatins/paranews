@@ -1,0 +1,114 @@
+@media (width <=430px) {
+
+    /* nav bar */
+    .program {
+        width: 100svw;
+        flex-direction: column;
+    }
+
+    .navbar {
+        width: 94%;
+        height: 3rem !important;
+        margin-left: 3%;
+        margin-right: 3%;
+    }
+
+    .logo {
+        font-size: 13px;
+        height: 3rem;
+        width: 13rem;
+    }
+
+    .logo img {
+        height: 30px !important;
+    }
+
+    .sbc {
+        display: none !important;
+    }
+
+    .cate p {
+        display: none;
+    }
+
+    .tabitems {
+        width: 94%;
+        height: 3rem !important;
+        position: fixed;
+        bottom: 10px;
+        display: flex;
+        padding-left: 0rem;
+        background-color: white;
+        overflow: hidden;
+        font-size: 18px;
+        border-radius: 10px;
+        align-items: center;
+    }
+
+    .tabitems img {
+        padding-left: 10px;
+        margin-left: 0px;
+    }
+
+    .cateitems {
+        display: flex;
+        flex-direction: row;
+        padding-left: 10px;
+    }
+
+    .cateitems li {
+        margin-right: 20px;
+    }
+
+    .cateitems li a {
+        padding-bottom: 0px;
+    }
+
+    .cate {
+        overflow-x: scroll;
+        margin-bottom: 0px;
+    }
+
+
+    .darkmode {
+        bottom: auto;
+        right: 24px;
+        left: auto;
+        top: 18px;
+        height: 32px;
+        width: 80px;
+    }
+
+    .Navlink {
+        padding-right: 20px;
+    }
+
+    vr {
+        height: 2.3rem;
+        width: 4px;
+        background-color: #2E5478;
+    }
+
+    /* main content styling */
+    main {
+        width: 94%;
+        height: 83svh !important;
+        margin-left: 3%;
+        margin-right: 3%;
+        margin-top: 0;
+    }
+
+    .row {
+        grid-template-columns: 95%;
+        gap: 10px;
+    }
+
+    .logo {
+        justify-content: flex-start;
+    }
+
+    .logo img {
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+}

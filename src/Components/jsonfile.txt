@@ -1,0 +1,95 @@
+{
+    "status": "ok",
+    "totalResults": 68,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Megan Cassella",
+            "title": "Why Powell Thinks the Fed Can Tame Inflation Without Recession - Barron's",
+            "description": "The central bank's chairman tells the markets that \"this time really is different.\"",
+            "url": "https://www.barrons.com/articles/fed-powell-interest-rates-inflation-recession-341fb2b5",
+            "urlToImage": "https://images.barrons.com/im-775405/social",
+            "publishedAt": "2023-05-04T12:31:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Silvia Amaro",
+            "title": "European Central Bank raises rates by 25 basis points, slowing the pace of hikes - CNBC",
+            "description": "The European Central Bank announced a new rate decision as inflation remains well-above its target.",
+            "url": "https://www.cnbc.com/2023/05/04/european-central-bank-rate-decision-may-2023-after-inflation-figures.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107235351-1683179423032-gettyimages-1252261818-AFP_33E23UM.jpeg?v=1683202552&w=1920&h=1080",
+            "publishedAt": "2023-05-04T12:15:52Z",
+            "content": "Christine Lagarde, President of the European Central Bank (ECB), announced a new rate decision Thursday following new inflation data.\r\nThe European Central Bank on Thursday increased its benchmark in… [+3259 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jesse Pound",
+            "title": "Regional bank stocks continue to slide on Thursday with PacWest leading the way down 40% - CNBC",
+            "description": "Thursday's moves come less than a week after First Republic was seized by regulators and sold at a discount to JPMorgan Chase.",
+            "url": "https://www.cnbc.com/2023/05/04/regional-banks-fall-pacwest-down-40percent.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107231397-1682520261252-gettyimages-1485421574-032a0173_t7gavw6e.jpeg?v=1683201890&w=1920&h=1080",
+            "publishedAt": "2023-05-04T12:04:50Z",
+            "content": "The rout in regional banks picked up steam again on Thursday morning, with several stocks poised to open trading with sizeable losses.\r\nPacWest sank 40% in premarket trading. The slide began on Wedne… [+1212 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Shopify.com"
+            },
+            "author": null,
+            "title": "Shopify Announces First-Quarter 2023 Financial Results; Agrees to Sell Shopify Logistics to Flexport - Shopify",
+            "description": "Shopify sharpens its focus on building and scaling the future of commerce",
+            "url": "https://news.shopify.com/shopify-announces-first-quarter-2023-financial-results-agrees-to-sell-shopify-logistics-to-flexport",
+            "urlToImage": "https://cdn.uc.assets.prezly.com/ad709b27-41b9-4904-9632-1da6474e7f49/-/quality/best/-/format/auto/",
+            "publishedAt": "2023-05-04T11:36:40Z",
+            "content": "Internet, Everywhere - May 4, 2023 - Shopify Inc. (NYSE, TSX: SHOP), a provider of essential internet infrastructure for commerce, announced today financial results for the quarter ended March 31, 20… [+22648 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Annie Palmer",
+            "title": "Shopify offloads logistics business to Flexport - CNBC",
+            "description": "The sale marks a reversal for Shopify, which had spent years building out its own logistics and order fulfillment operations.",
+            "url": "https://www.cnbc.com/2023/05/04/shopify-offloads-logistics-business-to-flexport.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/105883524-1556659905827img_1193r.jpg?v=1683201543&w=1920&h=1080",
+            "publishedAt": "2023-05-04T11:05:01Z",
+            "content": "Shopify is selling its logistics unit to supply chain technology company Flexport, the companies announced Thursday.\r\nThe sale marks a reversal for Shopify, which had spent years building out its own… [+2731 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Alexandra Meeks",
+            "title": "5 things to know for May 4: Atlanta shooting, Inflation, Ukraine, EVs, McDonald's - CNN",
+            "description": "Here's what else you need to know to Get Up to Speed and On with Your Day.",
+            "url": "https://www.cnn.com/2023/05/04/us/five-things-may-4-trnd/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230503141805-09-atlanta-active-shooter-0503.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-05-04T11:05:00Z",
+            "content": "Thousands of people are planning to line the streets of London this weekend to witness the coronation of King Charles III. The festivities, however, may be dampened by unsettled weather, with numerou… [+6413 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Melissa Repko",
+            "title": "Macy's expands Market by Macy's, Bloomie's off-mall stores - CNBC",
+            "description": "Macy's push into smaller and off-mall stores is its answer to investors who see department stores as dull and irrelevant.",
+            "url": "https://www.cnbc.com/2023/05/04/macys-expands-market-by-macys-bloomies-off-mall-stores.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107234719-1683121903508-Bloomies_3.jpg?v=1683198001&w=1920&h=1080",
+            "publishedAt": "2023-05-04T11:00:01Z",
+            "content": "Bloomie's, the smaller version of Bloomingdale's, features contemporary apparel brands. It has a slimmed down assortment and displays that are switched out frequently.\r\nFAIRFAX, Va. Shoppers browse r… [+12455 chars]"
+        },
