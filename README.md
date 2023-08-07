@@ -29,7 +29,11 @@ as ParaNews delivers a truly seamless and immersive reading experience.
 <img src="https://github.com/kjatins/paranews/blob/main/ParaNews/Slide%2016_9%20-%204.png?raw=true" width=48%>
 
 ## Demo Videos
-<iframe width="70%" src="" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+
+https://github.com/kjatins/kjatins/assets/110972965/2691794f-5c74-42ff-a6d1-5bfb89065295
+
+https://github.com/kjatins/kjatins/assets/110972965/dee4c316-a43e-4939-bcce-ed08aa0fb92d
+
 
 ## Features
  
