@@ -25,7 +25,7 @@ as ParaNews delivers a truly seamless and immersive reading experience.
 
 
 ## Adaptable.
-<img src="https://github.com/kjatins/paranews/blob/main/ParaNews/Slide%2016_9%20-%203.png?raw=true" width=48%><img src="https://github.com/kjatins/paranews/blob/main/ParaNews/Slide%2016_9%20-%204.png?raw=true" width=48%>
+<img src="https://github.com/kjatins/paranews/blob/main/ParaNews/Slide%2016_9%20-%203.png?raw=true" width=70%><img src="https://github.com/kjatins/paranews/blob/main/ParaNews/Slide%2016_9%20-%204.png?raw=true" width=70%>
 
 ## Demo Videos
 
